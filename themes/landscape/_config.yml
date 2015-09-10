@@ -2,6 +2,11 @@
 menu:
   Home: /
   Archives: /archives
+  About: /about
+  Services: /Services
+  Blog: /Blog
+  Contact: /Contact
+  Partners: /Partners
 rss: /atom.xml
 
 # Content
